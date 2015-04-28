@@ -1,0 +1,53 @@
+scale 10000
+d_value 2.00
+dz_value 0.010
+t_amb 20
+TSV_therm_k_Cu  400
+TSV_rho_Cu 8700
+TSV_cp_Cu 385
+TSV_therm_k_Ins  1.38
+TSV_rho_Ins 2650
+TSV_cp_Ins 100
+TSV_radius 0.400
+TSV_linear 0.400
+
+
+block_begin
+coordinate 0.00000000 0.00000000 0.00000000
+dim 8.000 8.000 2.000
+therm_k 160
+he 0 0 0 0 0 0
+rho 2300
+cp 700
+channel 0
+TSV_locations 2.66666667 2.66666667
+TSV_locations 2.66666667 5.33333333
+TSV_locations 5.33333333 2.66666667
+TSV_locations 5.33333333 5.33333333
+block_end
+
+
+block_begin
+coordinate 0.00000000 0.00000000 2.48000000
+dim 8.000 8.000 2.000
+therm_k 160
+he 0 0 0 0 0 0
+rho 2300
+cp 700
+channel 0
+TSV_locations 2.66666667 2.66666667
+TSV_locations 2.66666667 5.33333333
+TSV_locations 5.33333333 2.66666667
+TSV_locations 5.33333333 5.33333333
+block_end
+
+
+block_begin
+coordinate 0.000 0.000 4.960
+dim 8.000 8.000 2.000
+therm_k 160
+he 0 6000.000000 0 0 0 0
+rho 2700
+cp 900
+channel 0
+block_end

@@ -1,0 +1,5 @@
+This version has larger heat sink working.
+
+Still need some code cleanup to:
+1) specify heat sink dimensions from outside and auto detect the start of laers etc
+2) Use same parameter for generate_msh and generate_plot. The final solution shouldnt require modifying anything in these two files, everythng should be controlled from outside.
