@@ -1,3 +1,4 @@
-This version has the large heat sink working.
+This version has a fully functional heat sink.
 All parameters can be controlled from outside.
-User inputs only the dimensions etc. to be able to visualize the chip structure and heat patterns.
+User inputs only the dimensions, tsv coordinates 
+to be able to visualize the chip structure and heat patterns.
